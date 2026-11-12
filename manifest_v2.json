@@ -1,0 +1,39 @@
+{
+  "item": {
+    "id": "com.ncb.memorysequence",
+    "restype": "quick_app",
+    "name": "记忆序列",
+    "description": "戴在手腕上的记忆小游戏。四块色块按顺序闪亮，你按同样的顺序点回去；\n每过一层序列多一格、节奏快一档，最高 30 层通关。经典模式按原序点，\n反向模式要倒着点，点错立刻结束。两种模式各自记录最高层数，没有网络\n也能玩，四五十秒一局，等电梯、排队、睡前放空都合适。",
+    "preview": [
+      "media/1000183124.png"
+    ],
+    "icon": "media/1000183123.png",
+    "cover": "media/1000183132.jpg",
+    "author": [
+      {
+        "name": "XiaoBin",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "爱发电赞助",
+      "url": "https://afdian.com/a/xiaobin893",
+      "icon": "link-simple"
+    }
+  ],
+  "downloads": {
+    "xmb10": {
+      "version": "1.1.1",
+      "file_name": "downloads/com.ncb.memorysequence.release.1.1.1.rpk",
+      "versionCode": 3
+    },
+    "xmb10nfc": {
+      "version": "1.1.1",
+      "file_name": "downloads/com.ncb.memorysequence.release.1.1.1.rpk",
+      "versionCode": 3
+    }
+  },
+  "ext": {}
+}
