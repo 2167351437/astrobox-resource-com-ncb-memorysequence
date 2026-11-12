@@ -5,12 +5,12 @@
     "name": "记忆序列",
     "description": "戴在手腕上的记忆小游戏。四块色块按顺序闪亮，你按同样的顺序点回去；每过一层序列多一格、节奏快一档，最高 30 层通关。经典模式按原序点，反向模式要倒着点，点错立刻结束。两种模式各自记录最高层数，没有网络也能玩，四五十秒一局，等电梯、排队、睡前放空都合适。",
     "preview": [
-      "media/1000183137.png",
-      "media/1000183138.png",
-      "media/1000183139.png"
+      "media/1000183169.png",
+      "media/1000183170.png",
+      "media/1000183171.png"
     ],
     "icon": "media/1000183123.png",
-    "cover": "media/1000183162.png",
+    "cover": "media/1000183168.png",
     "author": [
       {
         "name": "XiaoBin",
@@ -22,6 +22,11 @@
     {
       "title": "爱发电赞助",
       "url": "https://afdian.com/a/xiaobin893",
+      "icon": "link-simple"
+    },
+    {
+      "title": "官方QQ群",
+      "url": "https://qun.qq.com/universal-share/share?ac=1&authKey=QHTD1LQDwIKNxnKrZhx%2Fql1fRzfIQ%2BMVDzccLlUALT3doPuOpRCzBYw%2Fh0xrUGVn&busi_data=eyJncm91cENvZGUiOiIxMTI1MTYxODY1IiwidG9rZW4iOiJEQ2k3L2J3WVlVZUI1VWFhWTUyRVZFT3dIUFk1MHl4VnhrNHhpcktBeHZRMTgxVGZsYWVrWGNIZG16cWFoRXFOIiwidWluIjoiMjE2NzM1MTQzNyJ9&data=rWywW9MMp_10IY_z_oqvS8rlgPwXvVrgkO5gGrADCLvfGR6Kz8AHv5tGoBNAuOi2CRi-U1lsmjM0s8tH9RdI8w&svctype=4&tempid=h5_group_info",
       "icon": "link-simple"
     }
   ],
